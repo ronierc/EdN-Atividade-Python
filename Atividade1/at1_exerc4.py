@@ -16,4 +16,4 @@ def compra(produto, preco, qtde):
         Quantidade: {qtde}
         Total da Compra: R$ {(preco * qtde):.2f}""") 
 
-compra("Escova", 5, 6)
+compra("Cadeira Infantil", 12.40, 3)
